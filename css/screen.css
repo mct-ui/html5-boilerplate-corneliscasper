@@ -20,10 +20,17 @@ html {
  */
 
 ::-moz-selection {
+    background: #44C8F5;
+    color: red;
+    text-shadow: none;
 
 }
 
 ::selection {
+    background: #44C8F5;
+    color: red;
+    text-shadow: none;
+    
 
 }
 
